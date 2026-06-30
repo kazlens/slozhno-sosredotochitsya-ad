@@ -1,6 +1,7 @@
 
 # Проектная работа
-Ссылка на репозиторий: <a href="https://github.com/kazlens/slozhno-sosredotochitsya-ad">https://github.com/kazlens/slozhno-sosredotochitsya-ad</a>
+Ссылка на репозиторий: https://github.com/kazlens/slozhno-sosredotochitsya-ad
+<a href="https://github.com/kazlens/slozhno-sosredotochitsya-ad">Открыть репозиторий</a>
 Проект выполнен в рамках учебного курса "Фронтенд разработчик" Яндекс.Практикума<br>
 ## Задача проекта
 Сверстать адаптивный сайт в светлой и тёмной темах согласно макета в фигме.
